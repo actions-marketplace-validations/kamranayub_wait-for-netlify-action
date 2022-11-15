@@ -43,7 +43,7 @@ Basic Usage
 ```yaml
 steps:
   - name: Waiting for Netlify Preview
-    uses: kamranayub/wait-for-netlify-action@v2.1.0
+    uses: kamranayub/wait-for-netlify-action@v2.1.1
     id: wait-for-netflify-preview
     with:
       site_name: "YOUR_SITE_NAME"
